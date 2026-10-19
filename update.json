@@ -1,0 +1,15 @@
+{
+    "versionCode":  4,
+    "versionName":  "1.3",
+    "apkUrl":  "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/zeti-bot-estable.apk",
+    "notas":  "Actualizaciones automaticas y poder modificar una entrega ya enviada",
+    "obligatoria":  false,
+    "minVersion":  0,
+    "beta":  {
+                 "versionCode":  4,
+                 "versionName":  "1.3",
+                 "apkUrl":  "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/zeti-bot-estable.apk",
+                 "notas":  "Actualizaciones automaticas y poder modificar una entrega ya enviada",
+                 "obligatoria":  false
+             }
+}
