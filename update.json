@@ -1,15 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.5",
-    "apkUrl":  "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/zeti-bot-estable.apk",
-    "notas":  "Avisos mas rapidos: revisa cada minuto, al volver a la app y avisa actualizaciones",
-    "obligatoria":  false,
-    "minVersion":  0,
-    "beta":  {
-                 "versionCode":  21,
-                 "versionName":  "1.15.20",
-                 "apkUrl":  "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/beta/zeti-bot-beta.apk",
-                 "notas":  "Corrección del cierre al iniciar",
-                 "obligatoria":  false
-             }
+  "versionCode": 23,
+  "versionName": "1.15.22",
+  "apkUrl": "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/zeti-bot-estable.apk",
+  "notas": "Cuentas múltiples de estudiantes",
+  "obligatoria": false,
+  "minVersion": 0
 }
