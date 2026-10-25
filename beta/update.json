@@ -1,0 +1,8 @@
+{
+  "versionCode": 17,
+  "versionName": "1.15.16",
+  "apkUrl": "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/beta/zeti-bot-beta.apk",
+  "notas": "actualizacion beta-01",
+  "obligatoria": false,
+  "minVersion": 0
+}
