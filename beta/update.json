@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.15.20",
+  "versionCode": 23,
+  "versionName": "1.15.22",
   "apkUrl": "https://raw.githubusercontent.com/einenicolassanchez-cell/zeti-bot-updates/main/beta/zeti-bot-beta.apk",
-  "notas": "Corrección del cierre al iniciar",
+  "notas": "Cuentas múltiples de estudiantes",
   "obligatoria": false,
   "minVersion": 0
 }
